@@ -52,6 +52,6 @@
     "eslint-config-google": "^0.14.0",
     "mocha": "^6.1.4",
     "ts-node-dev": "^1.0.0-pre.32",
-    "typescript": "^3.9.10"
+    "typescript": "^3.5.3"
   }
 }
