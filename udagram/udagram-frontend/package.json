@@ -6,8 +6,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build:dev": "ng build",
-    "build:prod": "ng build --prod",
+    "build": "ng build",
     "deploy": "npm install -f && npm run build:prod && bash ./bin/deploy.sh",
     "test": "ng test --watch=false",
     "lint": "ng lint",
