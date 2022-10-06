@@ -35,9 +35,9 @@ jobs:
       - run:
           name: Front-End Build
           command: |
-            npm run frontend:build
             echo $EB_URL
             echo $URL
+            npm run frontend:build
       - run:
           name: API Build
           command: |
