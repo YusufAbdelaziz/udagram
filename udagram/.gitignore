@@ -6,4 +6,3 @@ node_modules
 !.elasticbeanstalk/*.global.yml
 
 .env
-set_env.sh
