@@ -57,6 +57,10 @@ jobs:
           command: |
             npm run frontend:deploy
       - run:
+          name: Set Elastic Beanstalk Environment Variables
+          command: |
+            npm run api:set_eb_env
+      - run:
           name: Deploy API to EB
           command: |
             npm run api:deploy
