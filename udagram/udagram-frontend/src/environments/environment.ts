@@ -9,6 +9,7 @@ export const environment = {
   // apiHost: "http://localhost:8080/api/v0",
   apiHost: process.env.EB_URL,
 };
+console.log(`ENV.EB_URL -> ${process.env.EB_URL}`);
 
 /*
  * For easier debugging in development mode, you can import the following file

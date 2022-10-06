@@ -9,7 +9,7 @@ export const environment = {
   apiHost: process.env.EB_URL,
 };
 
-console.log(`ENV.URL -> ${process.env.EB_URL}`);
+console.log(`ENV.EB_URL -> ${process.env.EB_URL}`);
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
