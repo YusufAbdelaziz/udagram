@@ -4,10 +4,10 @@
 import * as process from "process";
 
 export const environment = {
-  production: false,
+  production: true,
   appName: "Udagram",
   // apiHost: "http://localhost:8080/api/v0",
-  apiHost: process.env.EB_URL,
+  apiHost: "http://udagram-env.eba-ap35vnmi.us-east-1.elasticbeanstalk.com/",
 };
 console.log(`ENV.EB_URL -> ${process.env.EB_URL}`);
 
