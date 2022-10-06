@@ -2,9 +2,7 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/YusufAbdelaziz/udagram/tree/master.svg?style=svg&circle-token=a25dfcc2df27cfadaf3290f070751ce6408492de)](https://dl.circleci.com/status-badge/redirect/gh/YusufAbdelaziz/udagram/tree/master)
 
-### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
-
----
+## URL : <http://joe-abdelaziz-udagram.s3-website-us-east-1.amazonaws.com>
 
 In this project you will learn how to take a newly developed Full-Stack application built for a retailer and deploy it to a cloud service provider so that it is available to customers. You will use the aws console to start and configure the services the application needs such as a database to store product information and a web server allowing the site to be discovered by potential customers. You will modify your package.json scripts and replace hard coded secrets with environment variables in your code.
 
