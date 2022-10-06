@@ -1,5 +1,7 @@
 # Hosting a Full-Stack Application
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/YusufAbdelaziz/udagram/tree/master.svg?style=svg&circle-token=a25dfcc2df27cfadaf3290f070751ce6408492de)](https://dl.circleci.com/status-badge/redirect/gh/YusufAbdelaziz/udagram/tree/master)
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
@@ -15,8 +17,6 @@ The project will also include writing documentation and runbooks covering the op
 # Udagram
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
-
-
 
 ### Dependencies
 
